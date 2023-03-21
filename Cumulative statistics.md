@@ -1,4 +1,4 @@
-Cumulative statistics can be useful in data analysis for various purposes, such as:
+### Cumulative statistics can be useful in data analysis for various purposes, such as:
 
 1 - Monitoring progress over time: Cumulative statistics can help to track the progress of a project or initiative over time. For example, a cumulative graph of sales revenue can show the total sales over a period of time, and help to identify trends and patterns in the data.
 
